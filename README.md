@@ -88,6 +88,6 @@ Example placeholders:
 ## 👨‍💻 Author  
 **Devansh Shukla**  
 - LinkedIn: [linkedin.com/in/devanshshukla21](https://www.linkedin.com/in/devanshshukla21/)  
-- GitHub: [github.com/your-username](https://github.com/your-username)  
+- GitHub: [github.com/your-username](https://github.com/devansh391k)  
 
 ---
