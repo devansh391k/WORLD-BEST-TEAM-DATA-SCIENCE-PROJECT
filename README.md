@@ -1,12 +1,5 @@
 # 🌍 World Best Team – Data Science Project 🏏  
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/world-best-team)  
-![GitHub contributors](https://img.shields.io/github/contributors/your-username/world-best-team)  
-![GitHub stars](https://img.shields.io/github/stars/your-username/world-best-team?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/your-username/world-best-team?style=social)  
-![GitHub issues](https://img.shields.io/github/issues/your-username/world-best-team)  
-![License](https://img.shields.io/github/license/your-username/world-best-team)  
-
 ---
 
 ## 📌 Project Overview  
@@ -81,8 +74,8 @@ The team is built using **real-world player statistics**, data preprocessing in 
 _Add screenshots of your dashboards and analysis here_  
 
 Example placeholders:  
-![Dashboard Screenshot](assets/dashboard.png)  
-![Data Flow](assets/dataflow.png)  
+![Dashboard Screenshot](<img width="1434" height="738" alt="image" src="https://github.com/user-attachments/assets/9d411e3a-7c25-4cff-a3bc-0cbdeabe4e2f" />)  
+![Data Flow](<img width="1286" height="722" alt="image" src="https://github.com/user-attachments/assets/c6d0d79c-4a93-4967-8b51-7ca81b591a27" />)  
 
 ---
 
@@ -90,17 +83,6 @@ Example placeholders:
 - Identified a **data-driven World Best XI**.  
 - Team optimized for **batting & bowling balance**.  
 - Demonstrates **Sports Analytics + BI integration**.  
-
----
-
-## 🤝 Contributing  
-Contributions, issues, and feature requests are welcome!  
-Feel free to fork this repo and submit a PR.  
-
----
-
-## 📜 License  
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
 
 ---
 
