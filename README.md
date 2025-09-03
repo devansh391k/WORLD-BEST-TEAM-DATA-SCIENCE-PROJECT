@@ -73,8 +73,8 @@ The team is built using **real-world player statistics**, data preprocessing in 
   
 
 Example placeholders:  
-![Final 12 Players]("Screenshot 2025-09-03 232159.png")  
-![Data Flow]("Screenshot 2025-09-03 232333.png")  
+![Final 12 Players](images/Screenshot%202025-09-03%20232333.png)  
+![Data Flow](images/Screenshot%202025-09-03%20232159.png)  
 
 ---
 
