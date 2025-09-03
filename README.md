@@ -74,8 +74,8 @@ The team is built using **real-world player statistics**, data preprocessing in 
 _Add screenshots of your dashboards and analysis here_  
 
 Example placeholders:  
-![Dashboard Screenshot](<img width="1434" height="738" alt="image" src="https://github.com/user-attachments/assets/9d411e3a-7c25-4cff-a3bc-0cbdeabe4e2f" />)  
-![Data Flow](<img width="1286" height="722" alt="image" src="https://github.com/user-attachments/assets/c6d0d79c-4a93-4967-8b51-7ca81b591a27" />)  
+![Final 12 Players](Screenshot 2025-09-03 232159.png)  
+![Data Flow](Screenshot 2025-09-03 232333.png)  
 
 ---
 
