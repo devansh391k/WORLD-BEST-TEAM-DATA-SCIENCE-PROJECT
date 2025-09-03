@@ -27,12 +27,14 @@ The team is built using **real-world player statistics**, data preprocessing in 
 - Batting Avg > 30  
 - Strike Rate > 140  
 - Boundary % > 50%  
-- Batting Position < 4  
+- Batting Position < 4 
+![Openers](images/Screenshot%202025-09-03%20234142.png)
 
 ### 🔹 Anchors / Middle Order  
 - Batting Avg > 40  
 - Strike Rate > 125  
-- Avg. Balls Faced > 20  
+- Avg. Balls Faced > 20
+![Middle Order](images/Screenshot%202025-09-03%20234220.png)  
 
 ### 🔹 Finishers / Lower Order  
 - Batting Avg > 25  
