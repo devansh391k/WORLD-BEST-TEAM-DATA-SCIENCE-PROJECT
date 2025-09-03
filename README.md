@@ -70,12 +70,11 @@ The team is built using **real-world player statistics**, data preprocessing in 
 ---
 
 ## 📸 Screenshots  
-
-_Add screenshots of your dashboards and analysis here_  
+  
 
 Example placeholders:  
-![Final 12 Players](Screenshot 2025-09-03 232159.png)  
-![Data Flow](Screenshot 2025-09-03 232333.png)  
+![Final 12 Players]("Screenshot 2025-09-03 232159.png")  
+![Data Flow]("Screenshot 2025-09-03 232333.png")  
 
 ---
 
